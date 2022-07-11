@@ -3,6 +3,7 @@
     text-align: center;
     font-family: 'Oswald', sans-serif;
     color: #40514E
+
   }
 
   /*hr rules*/
@@ -151,7 +152,8 @@
   /*footer*/
   .footer {
     position: relative;
-    padding: 70px 0 70px;
+    padding: 70px 0 0;
+    margin-bottom: 0;
   }
 
   .bottom-container {
@@ -170,7 +172,8 @@
   .foot-p {
     color: #EAF6F6;
     font-size: 0.75rem;
-    padding: 20px 0;
+    padding: 20px 0 0;
+    margin-bottom: 0;
     }
 
   .low-bottom {
